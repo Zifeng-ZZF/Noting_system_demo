@@ -21,6 +21,8 @@
     <!--Bootstrap Framework-->
     <link rel="stylesheet" href="../css/bootstrap/normalized.css" type="text/css">
     <link rel="stylesheet" type="text/css" href="../css/bootstrap/bootstrap.css">
+    <!-- jQuery-->
+    <script type="application/javascript" rel="script" src="../scripts/jQuery/jquery-3.3.1.min.js"></script>
     <!-- JavaScripts-->
     <script type="application/javascript" rel="script" src="../scripts/signUp/signUp.js"></script>
     <title>Sign Up</title>

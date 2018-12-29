@@ -18,8 +18,11 @@
     <!--Bootstrap中自动引入了normalize.css的文件，无需自己引入-->
     <link rel="stylesheet" href="./css/bootstrap/normalized.css" type="text/css">
     <link rel="stylesheet" href="./css/bootstrap/bootstrap.css" type="text/css">
+    <!-- jQuery-->
+    <script type="application/javascript" rel="script" src="./scripts/jQuery/jquery-3.3.1.min.js"></script>
     <!-- JavaScripts-->
     <script type="application/javascript" rel="script" src="./scripts/login/login.js"></script>
+
     <title>Note-System-Login</title>
 </head>
 <body>

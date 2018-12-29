@@ -21,6 +21,8 @@
     <!--Bootstrap Framework-->
     <link rel="stylesheet" href="../css/bootstrap/normalized.css" type="text/css">
     <link rel="stylesheet" type="text/css" href="../css/bootstrap/bootstrap.css">
+    <!-- JavaScripts-->
+    <script type="application/javascript" rel="script" src="../scripts/signUp/signUp.js"></script>
     <title>Sign Up</title>
 </head>
 <body>
